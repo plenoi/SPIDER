@@ -7,7 +7,7 @@ The packages that this program depends on is
 `pip install scikit-learn==0.24.1`
 
 ## How to use SAPPHIRE
-1. Copy your fasta file into `./input` and change the name to seq.fasta<br>  - s_fpssm.csv 
+1. Copy your fasta file into `./input` and change the name to seq.fasta<br>
 2. Run command<br>
 `python spider.py`
 3. The result including sequence Header, label and probability will be saved in `./output/predicted_result.csv`
