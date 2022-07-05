@@ -6,7 +6,7 @@ The packages that this program depends on is
 `scikit-learn==0.24.1 or higher`. You can run following command in terminal.<br>
 `pip install scikit-learn==0.24.1`
 
-## How to use SAPPHIRE
+## How to use SPIDER
 1. Copy your fasta file into `./input` and change the name to seq.fasta<br>
 2. Run command<br>
 `python spider.py`
